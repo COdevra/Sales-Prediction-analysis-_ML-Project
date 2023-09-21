@@ -27,7 +27,7 @@ Download link: https://www.kaggle.com/devashish0507/big-mart-sales-prediction
 - matplotlib
 - seaborn
 - scikit-learn
-- Algorithms
+## Algorithms
 - Linear Regression
 - Ridge
 - Lasso
